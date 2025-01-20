@@ -16,8 +16,8 @@
 title: WordOfDay
 description: >- # this means to ignore newlines until "baseurl:"
   World's first Deceleration-Online-Word-Game (MOWG)
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://wordof.day" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/wordofday" # the subpath of your site, e.g. /blog
+url: "https://midzer.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
